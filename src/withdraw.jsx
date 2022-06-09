@@ -51,7 +51,7 @@ return;}
   
   return (
    
-    <Card   bgcolor="warning"
+    <Card   bgcolor="primary"
     header="Withdrawals"
     text= { `Available Balance is : ${Balance} \n ` +  "Enter Withdrawal Amount Below:" }
     
