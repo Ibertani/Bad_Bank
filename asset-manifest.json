@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bad_bank/static/css/main.abd64e84.css",
-    "main.js": "/bad_bank/static/js/main.3deb844a.js",
+    "main.js": "/bad_bank/static/js/main.cd4b2b66.js",
     "index.html": "/bad_bank/index.html",
     "main.abd64e84.css.map": "/bad_bank/static/css/main.abd64e84.css.map",
-    "main.3deb844a.js.map": "/bad_bank/static/js/main.3deb844a.js.map"
+    "main.cd4b2b66.js.map": "/bad_bank/static/js/main.cd4b2b66.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.3deb844a.js"
+    "static/js/main.cd4b2b66.js"
   ]
 }
