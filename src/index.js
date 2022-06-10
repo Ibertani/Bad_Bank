@@ -26,7 +26,7 @@ function Spa() {
       <UserContext.Provider value={{users:[{name:'abel',email:'abel@mit.edu',password:'secret',balance:100, loggedin: false}]}}>
         <div className="container" style={{padding: "20px"}}>
          <Routes>
-          <Route path="https://ibertani.github.io/bad_bank" element={<Home />} >
+          <Route path="/bad_bank" element={<Home />} >
             
             </Route>
           <Route path="/CreateAccount/" element={<CreateAccount/>} >
